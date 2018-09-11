@@ -1,0 +1,25 @@
+{
+  "name": "npm-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack-babel.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alois-renggli/npm-exercises.git"
+  },
+  "author": "Alois Renggli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alois-renggli/npm-exercises/issues"
+  },
+  "homepage": "https://github.com/alois-renggli/npm-exercises#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.2",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.18.0"
+  }
+}
