@@ -1,5 +1,5 @@
 {
-  "name": "npm-exercises",
+  "name": "clear",
   "version": "1.0.0",
   "description": "",
   "main": "webpack-babel.config.js",
@@ -21,5 +21,6 @@
     "babel-loader": "^8.0.2",
     "babel-preset-env": "^1.7.0",
     "webpack": "^4.18.0"
-  }
+  },
+  "devDependencies": {}
 }
